@@ -1,8 +1,3 @@
-import java.awt.*;
-import java.util.List;
-import java.util.Comparator;
-import java.util.Optional;
-
 void main() {
     User user0 = new User("Valerij", 54);
     User user1 = new User("Lexus", 25);
